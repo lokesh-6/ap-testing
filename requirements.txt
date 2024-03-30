@@ -76,8 +76,6 @@ kivy-deps.angle==0.3.3
 kivy-deps.glew==0.3.1
 kivy-deps.sdl2==0.6.0
 Kivy-Garden==0.1.5
-kivymd==1.1.1
-kiwisolver==1.4.4
 lesscpy==0.15.1
 lief==0.13.2
 mangum==0.17.0
